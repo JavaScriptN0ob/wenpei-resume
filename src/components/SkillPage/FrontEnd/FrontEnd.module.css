@@ -1,0 +1,18 @@
+.frontend {
+  border: 1px solid seagreen;
+  width: 50%;
+  text-align: start;
+  height: 50vh;
+}
+
+.html {
+  border: 1px solid blueviolet;
+}
+
+.css {
+  border: 1px solid lightpink;
+}
+
+.react {
+  border: 1px solid darkorange;
+}

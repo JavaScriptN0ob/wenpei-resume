@@ -1,0 +1,16 @@
+.skill_page {
+  border: 1px solid hotpink;
+  display: flex;
+  flex-direction: column;
+  /* height: 99vh; */
+  /* min-width: 320px; */
+}
+
+.skill__top {
+  display: flex;
+  font-size: 2rem;
+}
+
+.skill__bottom {
+  font-size: 2rem;
+}

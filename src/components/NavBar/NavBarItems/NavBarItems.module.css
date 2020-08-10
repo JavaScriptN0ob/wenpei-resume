@@ -1,0 +1,24 @@
+.navbar_item__container {
+  border: 1px solid gold;
+  display: flex;
+  flex-grow: 1;
+  justify-content: flex-end;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 4.5rem;
+}
+
+.social {
+  border: 1px solid green;
+  width: 10rem;
+}
+
+.project {
+  border: 1px solid blue;
+  width: 10rem;
+}
+
+.contact {
+  border: 1px solid burlywood;
+  width: 10rem;
+}

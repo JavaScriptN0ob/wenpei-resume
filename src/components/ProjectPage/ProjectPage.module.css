@@ -1,0 +1,17 @@
+.project__page {
+  border: 1px solid navy;
+  height: 99vh;
+}
+
+.title {
+  border: 1px solid coral;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.projects__container {
+  border: 1px solid cadetblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
